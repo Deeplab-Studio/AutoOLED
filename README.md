@@ -1,5 +1,7 @@
 # AutoOLED Library
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-Deeplab--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Deeplab-Studio)
+
 **AutoOLED** is a smart wrapper library for ESP32/Arduino that simplifies working with monochrome OLED displays. It automatically detects whether you are using an **SSD1306** or **SH1106** display driver and provides a unified, high-performance interface.
 
 ## Features
